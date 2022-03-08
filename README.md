@@ -26,6 +26,12 @@ Project Initialisation:
 3. Navigate to the project directory in terminal and start the database with the command ```docker-compose -f docker-compose-dev.yml up```
 4. Open another terminal window and navigate to the project directory and start the server with the command ```./gradlew bootRun```
 
+Reference links:
+1. https://start.spring.io/
+2. https://milanwittpohl.com/projects/tutorials/Full-Stack-Web-App/the-backend-with-java-and-spring
+3. https://docs.spring.io/spring-data/mongodb/docs/1.2.0.RELEASE/reference/html/mongo.repositories.html
+4. https://www.javaguides.net/2019/07/spring-boot-save-findbyid-findall.html
+
 Note:
 1. This project was done for an assesment I had attended.
 2. By default this project runs on 8080 port. So make sure to hit the APIs to that port to receive response.
